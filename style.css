@@ -1,3 +1,7 @@
-body{
-    background-color: antiquewhite;
+*{
+    background-color: rgb(118, 115, 115);
+    color: aliceblue;
+    margin: 30px;
+    text-align: center;
 }
+
